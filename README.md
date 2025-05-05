@@ -35,9 +35,22 @@
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mccallke0364&count_private=true&show_icons=true&theme=github_dark) 
 
+<div>
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mccallke0364&theme=github_dark" width=750  alt="stats graph"/>
+
+</div>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=ryo-ma&column=8&rank=SSS,SS,S,AAA,AA,A,B,C" />
+</p>
 
 
-<!--
+
+<!--                                                                                                   
+<p  align="center">
+<img  src="https://hacked-github-stat-trophies-mu.vercel.app/?username=mccallke0364&theme=gruvbox&no-frame=true&column=5&margin-w=0&margin-h=0"  alt="McCallum's github stats"/>
+</p>
+
+
 
 
  <h3><p align="center">Total Profile Visit: since 07.05.2022</p>
