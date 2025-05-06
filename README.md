@@ -5,12 +5,11 @@
 <h3>Languages</h3>
 
 
-<table style="border:none;">
-  <tr style="border:none;">
-    <td style="border:none;" valign="top" width="50%" align="center">
-      <p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mccallke0364&theme=github_dark&layout=compact"/></p></td>
-    <td style="border:none;" valign="top" width="50%" align="center">
-      <div  align="center">  
+<table align="center" style="border-collapse: collapse; border: none; border-color: none;">
+  <tr>
+    <td style="border: none; border-color: none;" width=50%><p align="center" ><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mccallke0364&theme=github_dark&layout=compact"/></p></td>
+    <td style="border: none; border-color: none;"  width=50%>
+      <div align="center">
         <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/csharp-original.svg" alt="C#" height="50" /></a>  
         <a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" /></a>  
         <a href="https://about.gitlab.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gitlab.svg" alt="GitLab" height="50" /></a>  
@@ -33,6 +32,7 @@
     </td>
   </tr>
 </table>
+ 
 <br/><br/>
 
 ### Statistics
@@ -60,6 +60,7 @@
 <p align="center">
     <img align="center" src="https://profile-counter.glitch.me/mccallke0364/count.svg"/>
 </p>
+
 <!--     
                                                                                             
 <p  align="center">
@@ -88,5 +89,27 @@
 <a href="https://twitter.com/     "><img align="left" src="https://img.shields.io/badge/Twitter-1DA1F2?&style=for-the-badge&logo=Twitter&logoColor=white" /></a>
 <a href="https://www.instagram.com/      /"><img align="left" src="https://img.shields.io/badge/Instagram-E4405F?&style=for-the-badge&logo=Instagram&logoColor=white" /></a>
 <a href="https://calendly.com/      /15min"><img align="left" src="https://img.shields.io/badge/Schedule a Meeting-4285F4?&style=for-the-badge&logo=Google Calendar&logoColor=white" /></a>
-
+ <div><p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mccallke0364&theme=github_dark&layout=compact"/></p></div>
+  <div align="center">  
+    <div align="center">
+    <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/csharp-original.svg" alt="C#" height="50" /></a>  
+    <a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" /></a>  
+    <a href="https://about.gitlab.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gitlab.svg" alt="GitLab" height="50" /></a>  
+    <a href="https://www.r-project.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/r.svg" alt="R" height="50" /></a>  
+    <a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
+    <a href="https://www.mysql.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" /></a>  
+    <a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></a>  
+    <a href="https://www.cprogramming.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/c-original.svg" alt="C" height="50" /></a>  
+    <a href="https://www.cplusplus.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="C++" height="50" /></a>  
+    <a href="https://www.java.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="50" /></a>  
+    <a href="https://www.php.net/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/php-original.svg" alt="PHP" height="50" /></a>  
+    <a href="https://docs.microsoft.com/en-us/powershell/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/powershell.png" alt="PowerShell" height="50" /></a>  
+    <a href="https://www.latex-project.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/latex.png" alt="LaTeX" height="50" /></a>  
+    <a href="https://www.gnu.org/software/bash/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="50" /></a>  
+    <a href="https://www.tensorflow.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/tensorflow-icon.svg" alt="TensorFlow" height="50" /></a>  
+    <a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" /></a>  
+    <a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>  
+    <a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" /></a>  
+  </div>
+</div>
 -->
